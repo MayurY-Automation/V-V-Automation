@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [mayur suite]">
+  <test name="mayur test(failed)">
+    <classes>
+      <class name="com.cap.demo1.Hdfc_netbanking">
+        <methods>
+          <include name="hdfc_frame"/>
+          <include name="open_browser"/>
+          <include name="close_browser"/>
+        </methods>
+      </class> <!-- com.cap.demo1.Hdfc_netbanking -->
+    </classes>
+  </test> <!-- mayur test(failed) -->
+</suite> <!-- Failed suite [mayur suite] -->

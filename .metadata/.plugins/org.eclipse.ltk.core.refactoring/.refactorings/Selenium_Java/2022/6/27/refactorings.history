@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CrossBrowserTestingScript.java&apos; to &apos;com.selenium_Mayur1/src/test/java/com.selenium_Mayur&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Java&apos;&#x0D;&#x0A;- Destination element: &apos;com.selenium_Mayur1/src/test/java/com.selenium_Mayur&apos;&#x0D;&#x0A;- Original element: &apos;com.selenium.day1.CrossBrowserTestingScript.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=com.selenium_Mayur1/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;com.selenium_Mayur" element1="/src&lt;com.selenium.day1{CrossBrowserTestingScript.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1656332562036" units="1" version="1.0"/>
+</session>

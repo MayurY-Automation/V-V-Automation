@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_adeep">
+
+	<test name="Practice Grouping by adeep">
+
+		<groups>
+
+			<define name="All_21st_feb_2021">
+
+
+
+
+				<include name="retesting" />
+				
+			</define>
+			<define name="All_21st_feb_2022">
+
+
+
+
+				<include name="regression" />
+			</define>
+			<define name="All_21st_feb_2022_adeep">
+
+
+
+                 <include name="regression" />
+				<include name="adeep" />
+			</define>
+			<run>
+
+				
+               <include name="All_21st_feb_2022_adeep" />
+			</run>
+
+		</groups>
+
+		<classes>
+
+			<class name="com.cap_lesson7.Grouping_demo_new99" />
+
+		</classes>
+
+	</test>
+
+</suite>

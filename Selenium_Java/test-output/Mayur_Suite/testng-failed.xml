@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Mayur_Suite]" guice-stage="DEVELOPMENT">
+  <test name="Rediff_Alert_Message(failed)">
+    <classes>
+      <class name="com.selenium.day1.Rediff_alert_handling">
+        <methods>
+          <include name="Rediff_alert"/>
+          <include name="close_browser"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- com.selenium.day1.Rediff_alert_handling -->
+    </classes>
+  </test> <!-- Rediff_Alert_Message(failed) -->
+</suite> <!-- Failed suite [Mayur_Suite] -->

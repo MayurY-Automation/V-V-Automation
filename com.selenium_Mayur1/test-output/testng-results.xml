@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-21T10:51:39 IST" name="Default suite" finished-at="2022-06-21T10:51:48 IST" duration-ms="9304">
+    <groups>
+    </groups>
+    <test started-at="2022-06-21T10:51:39 IST" name="Default test" finished-at="2022-06-21T10:51:48 IST" duration-ms="9304">
+      <class name="com.selenium_Mayur.APIdocs_selenium_Framehandling">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:com.selenium_Mayur.APIdocs_selenium_Framehandling@69997e9d]" started-at="2022-06-21T10:51:39 IST" name="launch_browser" finished-at="2022-06-21T10:51:42 IST" duration-ms="3201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="language()[pri:0, instance:com.selenium_Mayur.APIdocs_selenium_Framehandling@69997e9d]" started-at="2022-06-21T10:51:42 IST" name="language" finished-at="2022-06-21T10:51:48 IST" duration-ms="6053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- language -->
+      </class> <!-- com.selenium_Mayur.APIdocs_selenium_Framehandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

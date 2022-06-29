@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_omkar">
+
+	<test name="Practice Grouping by omkar">
+
+		<groups>
+
+			<define name="All_23rd_june_2022">
+
+
+
+
+				<include name="retesting" />
+				<include name="regression" />
+				<include name="omkar" />
+			</define>
+			<define name="All_24th_june_2022">
+
+
+
+
+				<include name="regression" />
+			</define>
+			<run>
+
+				<include name="All_24th_june_2022" />
+              
+			</run>
+
+		</groups>
+
+		<classes>
+
+			<class name="com.cap.demo1.Grouping_demo_new" />
+
+		</classes>
+
+	</test>
+
+</suite>

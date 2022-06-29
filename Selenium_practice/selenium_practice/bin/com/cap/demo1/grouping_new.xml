@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_pravin">
+
+	<test name="Practice Grouping by pravin">
+
+		<groups>
+
+			<define name="All_21st_feb_2021">
+
+
+
+
+				<include name="retesting" />
+				
+			</define>
+			<define name="All_21st_feb_2022">
+
+
+
+
+				<include name="regression" />
+			</define>
+			<run>
+
+				<include name="All_21st_feb_2021" />
+              
+			</run>
+
+		</groups>
+
+		<classes>
+
+			<class name="com.cap.demo1.Grouping_demo_new" />
+
+		</classes>
+
+	</test>
+
+</suite>

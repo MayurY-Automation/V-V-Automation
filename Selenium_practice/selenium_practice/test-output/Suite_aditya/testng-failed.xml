@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite_aditya]">
+  <test name="Practice Grouping by aditya(failed)">
+    <classes>
+      <class name="com.cap.demo1.Rediff_alert_handling">
+        <methods>
+          <include name="close_browser"/>
+          <include name="open_browser"/>
+        </methods>
+      </class> <!-- com.cap.demo1.Rediff_alert_handling -->
+      <class name="com.cap.demo1.Hdfc_netbanking">
+        <methods>
+          <include name="hdfc_frame"/>
+          <include name="open_browser"/>
+          <include name="close_browser"/>
+        </methods>
+      </class> <!-- com.cap.demo1.Hdfc_netbanking -->
+      <class name="com.cap.demo1.Keyword_action_example">
+        <methods>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- com.cap.demo1.Keyword_action_example -->
+    </classes>
+  </test> <!-- Practice Grouping by aditya(failed) -->
+</suite> <!-- Failed suite [Suite_aditya] -->

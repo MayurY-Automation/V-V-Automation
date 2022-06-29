@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_aditya">
+
+	<test name="Practice Grouping by aditya">
+
+		
+		<classes>
+
+			<class name="com.cap.demo1.Hdfc_netbanking" />
+			<class name="com.cap.demo1.Rediff_alert_handling" />
+			
+            <class name="com.cap.demo1.Keyword_action_example" />
+		</classes>
+
+	</test>
+
+</suite>
+
